@@ -3,7 +3,7 @@
 We designed D-SegNeXt and pre-trained it on the ImageNet-1k dataset
 This is a PyTorch implementation of **HDMSCA** proposed by our paper "**Road Extraction from High-Resolution Remote Sensing Images of Open-Pit Mine Using D-SegNeXt**".
 
-![FrameWork](https://github.com/D-SegNeXt/D-SegNeXt_Pretrain_ImageNet1K/blob/main/images/hdmsca/FrameWork.png)
+![FrameWork](https://github.com/D-SegNeXt/D-SegNeXt_Pretrain_ImageNet1K/blob/master/images/hdmsca/FrameWork.png)
 
 ```
 
